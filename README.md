@@ -12,7 +12,11 @@ Ideally, you should try to buy a stock when it hits a support level and sell it 
 
 # What this program does:
 
-This program takes a list of stock names as input in the 'main.py' file and for each of these stocks, it imports their historical data using the Zerodha Kite Connect Python API. It then finds the support and resistance levels for each of these stocks. These levels can further be filtered on the basis of price at support/resistance, the number of times the support/resistance level held, the number of days between each rebound etc. After calculating the support/resistance levels for each stock, this program plots a Candlestick chart for the stock data where these levels are visible.
+This program takes a list of stock names as input in the 'main.py' file and for each of these stocks, it imports their historical data using the Zerodha Kite Connect Python API.
+
+It then finds the support and resistance levels for each of these stocks. These levels can further be filtered on the basis of price at support/resistance, the number of times the support/resistance level held, the number of days between each rebound etc. 
+
+After calculating the support/resistance levels for each stock, this program plots a Candlestick chart for the stock data where these levels are visible.
 
 # Info:
 
