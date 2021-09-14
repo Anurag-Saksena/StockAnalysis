@@ -20,6 +20,6 @@ After calculating the support/resistance levels for each stock, this program plo
 
 # Info:
 
-Since this program connects to the Zerodha Python API which is connected to a Bank account, the values of the 'api_key' and 'api_secret' in the code have been removed. However sample inputs and outputs are present in the 'sample.pdf' file.
+Since this program connects to the Zerodha Python API which is connected to a Bank account, the values of the 'api_key' and 'api_secret' in the code have been removed. However sample inputs and outputs are present in the 'Sample inputs and outputs.pdf' file.
 
 
